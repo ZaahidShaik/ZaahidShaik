@@ -22,6 +22,5 @@
 
 ## Contact
 
-Twitter: [@fpmoles](https://twitter.com/fpmoles)
-
-LinkedIn: [Frank Moley](https://linkedin.com/in/frankmoley)
+Gmail: [](zahidshaik01@gmail.com)
+LinkedIn: [ZahidShaik](https://www.linkedin.com/in/zahid-shaik/)
