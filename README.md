@@ -9,7 +9,7 @@ I'm constantly striving to improve and learn new skills, build valuable products
 
 
 ## Development
-### Languages
+### Programming Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@ I'm constantly striving to improve and learn new skills, build valuable products
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
  -->
 
-### BackEnd Platforms & Frameworks
+### Backend Platforms & Frameworks
 
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  -->
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
@@ -42,7 +42,7 @@ I'm constantly striving to improve and learn new skills, build valuable products
 ![JUnit5 Badge](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=fff)
 
 
-### FrontEnd Platforms & Frameworks
+### Frontend Platforms & Frameworks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
