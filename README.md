@@ -1,10 +1,11 @@
 
 
-# Zahid Shaik
+## Hi there 👋
 
-### Hi there 👋
+I'm Zahid Shaik, a Full Stack Software Engineer based in Redmond, Washington. I have experience working in different domain - including E-commerce and Genomics. My areas of interest include development, design and architecture. 
 
-<!-- ## About Me -->
+I'm constantly striving to improve and learn new skills, build valuable products and make a positive impact. Feel free to reach out to chat or if you think I can help.
+
 
 
 ## Development
@@ -26,7 +27,7 @@
 
 ### BackEnd Platforms & Frameworks
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+<!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  -->
 ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Hibernate Badge](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=fff)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
